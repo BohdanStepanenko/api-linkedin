@@ -1,0 +1,1 @@
+<a href="<?php echo AUTH_URL; ?>">Login with LinkedIn</a>
